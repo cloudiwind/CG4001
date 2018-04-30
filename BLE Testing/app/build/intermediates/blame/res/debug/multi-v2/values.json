@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,12",
+                        "startColumns": "4,4",
+                        "startOffsets": "646,729",
+                        "endLines": "11,14",
+                        "endColumns": "12,12",
+                        "endOffsets": "724,796"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "312,370",
+                        "endColumns": "57,55",
+                        "endOffsets": "365,421"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,3,-1,-1",
+                        "startColumns": "-1,4,-1,-1",
+                        "startOffsets": "-1,59,-1,-1",
+                        "endColumns": "-1,48,-1,-1",
+                        "endOffsets": "-1,103,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "426,479,528,581",
+                        "endColumns": "52,48,52,64",
+                        "endOffsets": "474,523,576,641"
+                    }
+                }
+            ]
+        }
+    ]
+}

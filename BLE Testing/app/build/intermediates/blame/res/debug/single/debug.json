@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_scanning_item.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\layout\\activity_scanning_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_peripheral_list_characteristic_item.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\layout\\peripheral_list_characteristic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\menu_peripheral.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\menu\\peripheral.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_peripheral_details_characteristic_item.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\layout\\peripheral_details_characteristic_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_progress_indicator.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\layout\\progress_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_peripheral_list_services_header.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\layout\\peripheral_list_services_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_peripheral_list_services_item.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\layout\\peripheral_list_services_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_peripheral.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\layout\\activity_peripheral.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher1.png"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\menu_scanning.xml.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\menu\\scanning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher1.png.flat",
+        "source": "C:\\Users\\Cloudi\\Downloads\\NUS Year4 Sem2\\CG4001 - FYP Sem 2\\Android BLE Testing Codes\\BLE Testing\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher1.png"
+    }
+]
