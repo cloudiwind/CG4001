@@ -7,8 +7,8 @@ Targetted Hardware: BMD101 and EM9304 Chips
 Project: Wearable ECG Sensor Design
 
 To design a wearable ECG Sensor with:
-> Minimal Components
-> Small Form Factor
-> Non-Intrusive
-> Flexible
-> Wireless Monitoring via Mobile Device
+  - Minimal Components
+  - Small Form Factor
+  - Non-Intrusive
+  - Flexible
+  - Wireless Monitoring via Mobile Device
